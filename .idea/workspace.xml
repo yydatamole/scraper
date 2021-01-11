@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1882d40-6395-4464-96b9-c8413885bc1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ebextensions/nodecommand.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ebextensions/staticfiles.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +58,16 @@
       <updated>1607088907866</updated>
       <workItem from="1607088908902" duration="3863000" />
       <workItem from="1608728873255" duration="415000" />
-      <workItem from="1610354286204" duration="725000" />
+      <workItem from="1610354286204" duration="1057000" />
     </task>
+    <task id="LOCAL-00001" summary="Elastic Beanstalk configuration">
+      <created>1610363154610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610363154610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,12 +84,20 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Elastic Beanstalk configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Elastic Beanstalk configuration" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2047" y="300" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610362902272">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2047" y="300" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.798/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610362902272" />
     <state x="455" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.804/1440.23.1920.1057@0.23.1440.804" timestamp="1607089243605" />
+    <state x="1946" y="127" key="CommitChangelistDialog2" timestamp="1610363153193">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1946" y="127" key="CommitChangelistDialog2/0.23.1440.798/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610363153193" />
     <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1607090159465">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -99,5 +114,9 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.804/1440.23.1920.1057@0.23.1440.804" timestamp="1607090159464" />
+    <state x="2000" y="278" key="Vcs.Push.Dialog.v2" timestamp="1610363175838">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2000" y="278" key="Vcs.Push.Dialog.v2/0.23.1440.798/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610363175838" />
   </component>
 </project>
